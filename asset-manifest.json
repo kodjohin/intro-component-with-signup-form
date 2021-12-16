@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intro-component-with-signup-form/static/css/main.c2b20598.chunk.css",
+    "main.js": "/intro-component-with-signup-form/static/js/main.6d402e54.chunk.js",
+    "main.js.map": "/intro-component-with-signup-form/static/js/main.6d402e54.chunk.js.map",
+    "runtime-main.js": "/intro-component-with-signup-form/static/js/runtime-main.ed0cfecc.js",
+    "runtime-main.js.map": "/intro-component-with-signup-form/static/js/runtime-main.ed0cfecc.js.map",
+    "static/js/2.176b642d.chunk.js": "/intro-component-with-signup-form/static/js/2.176b642d.chunk.js",
+    "static/js/2.176b642d.chunk.js.map": "/intro-component-with-signup-form/static/js/2.176b642d.chunk.js.map",
+    "index.html": "/intro-component-with-signup-form/index.html",
+    "static/css/main.c2b20598.chunk.css.map": "/intro-component-with-signup-form/static/css/main.c2b20598.chunk.css.map",
+    "static/js/2.176b642d.chunk.js.LICENSE.txt": "/intro-component-with-signup-form/static/js/2.176b642d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/intro-component-with-signup-form/static/media/bg-intro-mobile.02ce3982.png",
+    "static/media/icon-error.b72f792e.svg": "/intro-component-with-signup-form/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed0cfecc.js",
+    "static/js/2.176b642d.chunk.js",
+    "static/css/main.c2b20598.chunk.css",
+    "static/js/main.6d402e54.chunk.js"
+  ]
+}
